@@ -1,0 +1,51 @@
+Time:2017-05-16 11:19:28:594-Trace>>Socket connect status: TotalCount=0, CurrentCount=0, CloseCount=0, RejectedCount=0
+
+
+Time:2017-05-16 11:19:30:644-Redis write queue start init...
+
+
+Time:2017-05-16 11:19:30:644-Sql wait write queue start init...
+
+
+Time:2017-05-16 11:19:30:647-Sql write queue start init...
+
+
+Time:2017-05-16 11:19:30:912-Trace>>The data:GameServer.Script.Model.tb%11User has been loaded 11 from db.
+
+
+Time:2017-05-16 11:19:31:097-Trace>>The data:GameServer.Script.Model.tb%11User has been loaded 1 from db.
+
+
+Time:2017-05-16 11:19:31:672-Trace>>The data:GameServer.Script.Model.tb%11gamelevelinfo has been loaded 9 from db.
+
+
+Time:2017-05-16 11:20:28:606-Trace>>Socket connect status: TotalCount=0, CurrentCount=0, CloseCount=0, RejectedCount=0
+
+
+Time:2017-05-16 11:21:28:619-Trace>>Socket connect status: TotalCount=0, CurrentCount=0, CloseCount=0, RejectedCount=0
+
+
+Time:2017-05-16 11:22:39:399-Trace>>Socket connect status: TotalCount=0, CurrentCount=0, CloseCount=0, RejectedCount=0
+
+
+Time:2017-05-16 11:32:33:547-Trace>>Socket connect status: TotalCount=0, CurrentCount=0, CloseCount=0, RejectedCount=0
+
+
+Time:2017-05-16 11:32:35:669-Redis write queue start init...
+
+
+Time:2017-05-16 11:32:35:669-Sql wait write queue start init...
+
+
+Time:2017-05-16 11:32:35:671-Sql write queue start init...
+
+
+Time:2017-05-16 11:32:35:916-Trace>>The data:GameServer.Script.Model.tb%11User has been loaded 12 from db.
+
+
+Time:2017-05-16 11:32:36:109-Trace>>The data:GameServer.Script.Model.tb%11User has been loaded 1 from db.
+
+
+Time:2017-05-16 11:32:36:389-Trace>>The data:GameServer.Script.Model.tb%11gamelevelinfo has been loaded 9 from db.
+
+

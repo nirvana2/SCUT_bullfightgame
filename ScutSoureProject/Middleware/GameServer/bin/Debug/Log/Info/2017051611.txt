@@ -1,0 +1,50 @@
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT 6.7.9.11 (64 bit)
+   ((        //        //   / /    / /       Running in Win32NT platform
+     \\     //        //   / /    / /        Game: 0   Server: 0
+       ) ) //        //   / /    / /         
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+11:19:20 Server is starting...
+11:19:20 Redis server connect successfully.
+11:19:25 DB server connect successfully.
+11:19:28 Start checking table schema, please wait.
+11:19:30 Check table schema successfully.
+11:19:30 script compiled successfully.
+11:19:30 CacheFactory listen has started...
+11:19:30 Socket service 192.168.0.199:9013 is started.
+Time:2017-05-16 11:19:30:694-http://127.0.0.1 GM服务启动成功!
+
+
+Time:2017-05-16 11:19:30:987-Trace>>ReLoad GameServer.Script.Model.tb_User end
+
+
+11:19:31 Server has started successfully!
+# Server is listening...
+# Server exit command "Ctrl+C" or "Ctrl+Break".
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT 6.7.9.11 (64 bit)
+   ((        //        //   / /    / /       Running in Win32NT platform
+     \\     //        //   / /    / /        Game: 0   Server: 0
+       ) ) //        //   / /    / /         
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+11:32:30 Server is starting...
+11:32:30 Redis server connect successfully.
+11:32:31 DB server connect successfully.
+11:32:33 Start checking table schema, please wait.
+11:32:35 Check table schema successfully.
+11:32:35 script compiled successfully.
+11:32:35 CacheFactory listen has started...
+11:32:35 Socket service 192.168.0.199:9013 is started.
+Time:2017-05-16 11:32:35:706-http://127.0.0.1 GM服务启动成功!
+
+
+Time:2017-05-16 11:32:35:994-Trace>>ReLoad GameServer.Script.Model.tb_User end
+
+
+11:32:36 Server has started successfully!
+# Server is listening...
+# Server exit command "Ctrl+C" or "Ctrl+Break".

@@ -1,0 +1,147 @@
+Time:2017-05-15 20:00:05:915-Trace>>Socket connect status: TotalCount=0, CurrentCount=0, CloseCount=0, RejectedCount=0
+
+
+Time:2017-05-15 20:01:05:930-Trace>>Socket connect status: TotalCount=0, CurrentCount=0, CloseCount=0, RejectedCount=0
+
+
+Time:2017-05-15 20:02:05:943-Trace>>Socket connect status: TotalCount=0, CurrentCount=0, CloseCount=0, RejectedCount=0
+
+
+Time:2017-05-15 20:03:05:957-Trace>>Socket connect status: TotalCount=0, CurrentCount=0, CloseCount=0, RejectedCount=0
+
+
+Time:2017-05-15 20:04:05:970-Trace>>Socket connect status: TotalCount=0, CurrentCount=0, CloseCount=0, RejectedCount=0
+
+
+Time:2017-05-15 20:05:05:983-Trace>>Socket connect status: TotalCount=0, CurrentCount=0, CloseCount=0, RejectedCount=0
+
+
+Time:2017-05-15 20:06:05:996-Trace>>Socket connect status: TotalCount=0, CurrentCount=0, CloseCount=0, RejectedCount=0
+
+
+Time:2017-05-15 20:07:06:011-Trace>>Socket connect status: TotalCount=0, CurrentCount=0, CloseCount=0, RejectedCount=0
+
+
+Time:2017-05-15 20:08:06:024-Trace>>Socket connect status: TotalCount=0, CurrentCount=0, CloseCount=0, RejectedCount=0
+
+
+Time:2017-05-15 20:09:06:038-Trace>>Socket connect status: TotalCount=0, CurrentCount=0, CloseCount=0, RejectedCount=0
+
+
+Time:2017-05-15 20:10:06:052-Trace>>Socket connect status: TotalCount=0, CurrentCount=0, CloseCount=0, RejectedCount=0
+
+
+Time:2017-05-15 20:11:06:064-Trace>>Socket connect status: TotalCount=0, CurrentCount=0, CloseCount=0, RejectedCount=0
+
+
+Time:2017-05-15 20:12:06:078-Trace>>Socket connect status: TotalCount=0, CurrentCount=0, CloseCount=0, RejectedCount=0
+
+
+Time:2017-05-15 20:13:06:091-Trace>>Socket connect status: TotalCount=0, CurrentCount=0, CloseCount=0, RejectedCount=0
+
+
+Time:2017-05-15 20:14:06:106-Trace>>Socket connect status: TotalCount=0, CurrentCount=0, CloseCount=0, RejectedCount=0
+
+
+Time:2017-05-15 20:15:06:120-Trace>>Socket connect status: TotalCount=0, CurrentCount=0, CloseCount=0, RejectedCount=0
+
+
+Time:2017-05-15 20:16:06:132-Trace>>Socket connect status: TotalCount=0, CurrentCount=0, CloseCount=0, RejectedCount=0
+
+
+Time:2017-05-15 20:17:06:147-Trace>>Socket connect status: TotalCount=0, CurrentCount=0, CloseCount=0, RejectedCount=0
+
+
+Time:2017-05-15 20:18:06:159-Trace>>Socket connect status: TotalCount=0, CurrentCount=0, CloseCount=0, RejectedCount=0
+
+
+Time:2017-05-15 20:18:49:505-Trace>>Socket connect status: TotalCount=0, CurrentCount=0, CloseCount=0, RejectedCount=0
+
+
+Time:2017-05-15 20:18:51:622-Redis write queue start init...
+
+
+Time:2017-05-15 20:18:51:623-Sql wait write queue start init...
+
+
+Time:2017-05-15 20:18:51:624-Sql write queue start init...
+
+
+Time:2017-05-15 20:18:51:854-Trace>>The data:GameServer.Script.Model.tb%11User has been loaded 11 from db.
+
+
+Time:2017-05-15 20:18:52:046-Trace>>The data:GameServer.Script.Model.tb%11User has been loaded 1 from db.
+
+
+Time:2017-05-15 20:18:52:313-Trace>>The data:GameServer.Script.Model.tb%11gamelevelinfo has been loaded 9 from db.
+
+
+Time:2017-05-15 20:19:49:759-Trace>>Socket connect status: TotalCount=0, CurrentCount=0, CloseCount=0, RejectedCount=0
+
+
+Time:2017-05-15 20:30:47:060-Trace>>Socket connect status: TotalCount=0, CurrentCount=0, CloseCount=0, RejectedCount=0
+
+
+Time:2017-05-15 20:30:49:533-Redis write queue start init...
+
+
+Time:2017-05-15 20:30:49:534-Sql wait write queue start init...
+
+
+Time:2017-05-15 20:30:49:535-Sql write queue start init...
+
+
+Time:2017-05-15 20:30:49:784-Trace>>The data:GameServer.Script.Model.tb%11User has been loaded 11 from db.
+
+
+Time:2017-05-15 20:30:50:015-Trace>>The data:GameServer.Script.Model.tb%11User has been loaded 1 from db.
+
+
+Time:2017-05-15 20:30:50:386-Trace>>The data:GameServer.Script.Model.tb%11gamelevelinfo has been loaded 9 from db.
+
+
+Time:2017-05-15 20:37:20:340-Trace>>Socket connect status: TotalCount=0, CurrentCount=0, CloseCount=0, RejectedCount=0
+
+
+Time:2017-05-15 20:37:24:028-Redis write queue start init...
+
+
+Time:2017-05-15 20:37:24:030-Sql wait write queue start init...
+
+
+Time:2017-05-15 20:37:24:031-Sql write queue start init...
+
+
+Time:2017-05-15 20:37:24:266-Trace>>The data:GameServer.Script.Model.tb%11User has been loaded 11 from db.
+
+
+Time:2017-05-15 20:37:24:456-Trace>>The data:GameServer.Script.Model.tb%11User has been loaded 1 from db.
+
+
+Time:2017-05-15 20:37:24:756-Trace>>The data:GameServer.Script.Model.tb%11gamelevelinfo has been loaded 9 from db.
+
+
+Time:2017-05-15 20:37:39:762-Trace>>Socket connect status: TotalCount=0, CurrentCount=0, CloseCount=0, RejectedCount=0
+
+
+Time:2017-05-15 20:37:42:364-Redis write queue start init...
+
+
+Time:2017-05-15 20:37:42:365-Sql wait write queue start init...
+
+
+Time:2017-05-15 20:37:42:366-Sql write queue start init...
+
+
+Time:2017-05-15 20:37:42:612-Trace>>The data:GameServer.Script.Model.tb%11User has been loaded 11 from db.
+
+
+Time:2017-05-15 20:37:42:830-Trace>>The data:GameServer.Script.Model.tb%11User has been loaded 1 from db.
+
+
+Time:2017-05-15 20:37:43:139-Trace>>The data:GameServer.Script.Model.tb%11gamelevelinfo has been loaded 9 from db.
+
+
+Time:2017-05-15 20:38:39:770-Trace>>Socket connect status: TotalCount=0, CurrentCount=0, CloseCount=0, RejectedCount=0
+
+

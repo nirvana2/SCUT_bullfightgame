@@ -1,0 +1,128 @@
+[
+    {
+        "id": 1,
+        "name": "总经理",
+        "desc": "干练的职业经理人",
+        "shop_type": 1,
+        "type": 1,
+        "item_id": 501,
+        "cost": 20000
+    },
+    {
+        "id": 2,
+        "name": "总经理",
+        "desc": "干练的职业经理人",
+        "shop_type": 1,
+        "type": 1,
+        "item_id": 502,
+        "cost": 20000
+    },
+    {
+        "id": 3,
+        "name": "总经理",
+        "desc": "干练的职业经理人",
+        "shop_type": 1,
+        "type": 1,
+        "item_id": 503,
+        "cost": 20000
+    },
+    {
+        "id": 4,
+        "name": "总经理",
+        "desc": "干练的职业经理人",
+        "shop_type": 1,
+        "type": 1,
+        "item_id": 504,
+        "cost": 20000
+    },
+    {
+        "id": 5,
+        "name": "总经理",
+        "desc": "干练的职业经理人",
+        "shop_type": 1,
+        "type": 1,
+        "item_id": 505,
+        "cost": 20000
+    },
+    {
+        "id": 6,
+        "name": "总经理",
+        "desc": "干练的职业经理人",
+        "shop_type": 1,
+        "type": 1,
+        "item_id": 506,
+        "cost": 20000
+    },
+    {
+        "id": 7,
+        "name": "总经理",
+        "desc": "干练的职业经理人",
+        "shop_type": 1,
+        "type": 1,
+        "item_id": 507,
+        "cost": 20000
+    },
+    {
+        "id": 8,
+        "name": "秘书",
+        "desc": "帮助提供办公效率",
+        "shop_type": 2,
+        "type": 1,
+        "item_id": 601,
+        "cost": 10000
+    },
+    {
+        "id": 9,
+        "name": "秘书",
+        "desc": "帮助提供办公效率",
+        "shop_type": 2,
+        "type": 1,
+        "item_id": 602,
+        "cost": 150000
+    },
+    {
+        "id": 10,
+        "name": "秘书",
+        "desc": "帮助提供办公效率",
+        "shop_type": 2,
+        "type": 1,
+        "item_id": 603,
+        "cost": 170000
+    },
+    {
+        "id": 11,
+        "name": "秘书",
+        "desc": "帮助提供办公效率",
+        "shop_type": 2,
+        "type": 1,
+        "item_id": 604,
+        "cost": 190000
+    },
+    {
+        "id": 12,
+        "name": "秘书",
+        "desc": "帮助提供办公效率",
+        "shop_type": 2,
+        "type": 1,
+        "item_id": 605,
+        "cost": 210000
+    },
+    {
+        "id": 13,
+        "name": "秘书",
+        "desc": "帮助提供办公效率",
+        "shop_type": 2,
+        "type": 1,
+        "item_id": 606,
+        "cost": 230000
+    },
+    {
+        "id": 14,
+        "name": "秘书",
+        "desc": "帮助提供办公效率",
+        "shop_type": 2,
+        "type": 1,
+        "item_id": 607,
+        "cost": 250000
+    }
+]

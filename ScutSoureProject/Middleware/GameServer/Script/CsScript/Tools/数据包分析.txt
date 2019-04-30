@@ -1,0 +1,82 @@
+/*
+		senddata = {"A","B","C"}
+		{byte[26]}
+		[0]: 20   // typeByte -> Object[] 等级0
+		[1]: 3
+		[2]: 0
+		[3]: 0
+		[4]: 0    //以32位 表示的整数 来源是 数据的长度
+		[5]: 14   // typeByte -> string 等级1 
+		[6]: 2
+		[7]: 0
+		[8]: 0
+		[9]: 0	//6~9 "A" 占的数据长度 为2  即 65 . 0
+		[10]: 65
+		[11]: 0
+		
+		[12]: 14	// typeByte -> string 等级1 
+		[13]: 2
+		[14]: 0
+		[15]: 0
+		[16]: 0
+		[17]: 66
+		[18]: 0
+		
+		[19]: 14 	// typeByte -> string 等级1 
+		[20]: 2
+		[21]: 0
+		[22]: 0
+		[23]: 0
+		[24]: 67
+		[25]: 0
+		 *  再精简 一下格式 {"XXX"}  XXX 用JSON 数据格式表示  理论上不适合传大数据 暂定
+		senddata = {"AB"}		
+		{byte[14]}
+		[0]: 20		// 20 -> Object[] c#服务端里面规定的 等级0
+		[1]: 1		//表示只有一个字符串组成的 Object[] 数据
+		[2]: 0
+		[3]: 0
+		[4]: 0		//1~4 以32位 表示的整数 来源是 数据的长度
+		[5]: 14	    // 14 -> string c#服务端里面规定的 等级1 
+		[6]: 4
+		[7]: 0
+		[8]: 0		//6~9 "AB" 占的数据长度 为4  即  10~13
+		[9]: 0
+		[10]: 65
+		[11]: 0
+		[12]: 66
+		[13]: 0
+ 		 * */
+		public static  function GetBytebyCSharpFormat(strData:String):ByteArray
+		{
+			var sendByte:ByteArray = new ByteArray();
+			//写入 20
+			sendByte.position = 0;
+			sendByte.writeByte(20);
+			//sendByte.position = sendByte.length;
+			//写入 [1][0][0][0] = 1整型 1
+			sendByte.endian = Endian.LITTLE_ENDIAN;//不设置写出来是  [0][0][0][1]
+			sendByte.writeInt(1);
+			//写入 14
+			//sendByte.position = sendByte.length;
+			sendByte.writeByte(14);
+			//写入 [?][?][?][?] = 整型 strData.length
+			sendByte.endian = Endian.LITTLE_ENDIAN;
+			//写入 字符串的二进制长度
+			var tempstr:ByteArray = new ByteArray();
+			tempstr.writeMultiByte(strData, "unicode")
+				
+			sendByte.writeInt(tempstr.length);
+			//sendByte.position = sendByte.length;
+			
+			sendByte.writeBytes(tempstr, 0,tempstr.length);// C#服务端里面用的unicode
+			sendByte = Package(sendByte);
+			for(var i:int; i < sendByte.length; i++)
+			{
+				trace("["+i+"]:"+sendByte[i]);
+			}
+			
+			return sendByte;
+		}
+		private static var EncodeNum:int = 0;
+		public static function Package(byteData:ByteArray):ByteArray

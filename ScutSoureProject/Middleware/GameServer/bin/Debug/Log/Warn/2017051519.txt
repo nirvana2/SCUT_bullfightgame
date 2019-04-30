@@ -1,0 +1,3 @@
+Time:2017-05-15 19:53:07:785-Trace>>Can not find the corresponding language configuration,typeName:GameServer.CsScript.Locale.SimplifiedLanguage
+
+

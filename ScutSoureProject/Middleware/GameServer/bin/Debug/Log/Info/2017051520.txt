@@ -1,0 +1,102 @@
+20:03:20 Clear expired cache end.
+20:13:20 Clear expired cache end.
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT 6.7.9.11 (64 bit)
+   ((        //        //   / /    / /       Running in Win32NT platform
+     \\     //        //   / /    / /        Game: 0   Server: 0
+       ) ) //        //   / /    / /         
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+20:18:46 Server is starting...
+20:18:46 Redis server connect successfully.
+20:18:47 DB server connect successfully.
+20:18:48 Start checking table schema, please wait.
+20:18:51 Check table schema successfully.
+20:18:51 script compiled successfully.
+20:18:51 CacheFactory listen has started...
+20:18:51 Socket service 192.168.0.199:9013 is started.
+Time:2017-05-15 20:18:51:659-http://127.0.0.1 GM服务启动成功!
+
+
+Time:2017-05-15 20:18:51:928-Trace>>ReLoad GameServer.Script.Model.tb_User end
+
+
+20:18:52 Server has started successfully!
+# Server is listening...
+# Server exit command "Ctrl+C" or "Ctrl+Break".
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT 6.7.9.11 (64 bit)
+   ((        //        //   / /    / /       Running in Win32NT platform
+     \\     //        //   / /    / /        Game: 0   Server: 0
+       ) ) //        //   / /    / /         
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+20:30:43 Server is starting...
+20:30:44 Redis server connect successfully.
+20:30:45 DB server connect successfully.
+20:30:46 Start checking table schema, please wait.
+20:30:49 Check table schema successfully.
+20:30:49 script compiled successfully.
+20:30:49 CacheFactory listen has started...
+20:30:49 Socket service 192.168.0.199:9013 is started.
+Time:2017-05-15 20:30:49:573-http://127.0.0.1 GM服务启动成功!
+
+
+Time:2017-05-15 20:30:49:880-Trace>>ReLoad GameServer.Script.Model.tb_User end
+
+
+20:30:50 Server has started successfully!
+# Server is listening...
+# Server exit command "Ctrl+C" or "Ctrl+Break".
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT 6.7.9.11 (64 bit)
+   ((        //        //   / /    / /       Running in Win32NT platform
+     \\     //        //   / /    / /        Game: 0   Server: 0
+       ) ) //        //   / /    / /         
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+20:37:16 Server is starting...
+20:37:17 Redis server connect successfully.
+20:37:18 DB server connect successfully.
+20:37:19 Start checking table schema, please wait.
+20:37:23 Check table schema successfully.
+20:37:23 script compiled successfully.
+20:37:24 CacheFactory listen has started...
+20:37:24 Socket service 192.168.0.199:9013 is started.
+Time:2017-05-15 20:37:24:068-http://127.0.0.1 GM服务启动成功!
+
+
+Time:2017-05-15 20:37:24:326-Trace>>ReLoad GameServer.Script.Model.tb_User end
+
+
+20:37:24 Server has started successfully!
+# Server is listening...
+# Server exit command "Ctrl+C" or "Ctrl+Break".
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT 6.7.9.11 (64 bit)
+   ((        //        //   / /    / /       Running in Win32NT platform
+     \\     //        //   / /    / /        Game: 0   Server: 0
+       ) ) //        //   / /    / /         
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+20:37:36 Server is starting...
+20:37:36 Redis server connect successfully.
+20:37:37 DB server connect successfully.
+20:37:39 Start checking table schema, please wait.
+20:37:42 Check table schema successfully.
+20:37:42 script compiled successfully.
+20:37:42 CacheFactory listen has started...
+20:37:42 Socket service 192.168.0.199:9013 is started.
+Time:2017-05-15 20:37:42:401-http://127.0.0.1 GM服务启动成功!
+
+
+Time:2017-05-15 20:37:42:693-Trace>>ReLoad GameServer.Script.Model.tb_User end
+
+
+20:37:43 Server has started successfully!
+# Server is listening...
+# Server exit command "Ctrl+C" or "Ctrl+Break".

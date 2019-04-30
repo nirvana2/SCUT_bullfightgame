@@ -1,0 +1,25 @@
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT 6.7.9.11 (64 bit)
+   ((        //        //   / /    / /       Running in Win32NT platform
+     \\     //        //   / /    / /        Game: 0   Server: 0
+       ) ) //        //   / /    / /         
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+19:53:02 Server is starting...
+19:53:02 Redis server connect successfully.
+19:53:03 DB server connect successfully.
+19:53:05 Start checking table schema, please wait.
+19:53:07 Check table schema successfully.
+19:53:07 script compiled successfully.
+19:53:07 CacheFactory listen has started...
+19:53:07 Socket service 192.168.0.199:9013 is started.
+Time:2017-05-15 19:53:07:979-http://127.0.0.1 GM服务启动成功!
+
+
+Time:2017-05-15 19:53:08:246-Trace>>ReLoad GameServer.Script.Model.tb_User end
+
+
+19:53:08 Server has started successfully!
+# Server is listening...
+# Server exit command "Ctrl+C" or "Ctrl+Break".

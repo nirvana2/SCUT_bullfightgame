@@ -1,0 +1,11 @@
+D:\codingbak\Redbet_Server\ScutSoureProject\Framework\ZyGames.Framework.Common\bin\ZyGames.Framework.Common.xml
+D:\codingbak\Redbet_Server\ScutSoureProject\Framework\ZyGames.Framework.Common\bin\ZyGames.Framework.Common.dll
+D:\codingbak\Redbet_Server\ScutSoureProject\Framework\ZyGames.Framework.Common\bin\ZyGames.Framework.Common.pdb
+D:\codingbak\Redbet_Server\ScutSoureProject\Framework\ZyGames.Framework.Common\bin\Mono.Cecil.dll
+D:\codingbak\Redbet_Server\ScutSoureProject\Framework\ZyGames.Framework.Common\bin\Mono.Cecil.Pdb.dll
+D:\codingbak\Redbet_Server\ScutSoureProject\Framework\ZyGames.Framework.Common\bin\Newtonsoft.Json.dll
+D:\codingbak\Redbet_Server\ScutSoureProject\Framework\ZyGames.Framework.Common\bin\NLog.dll
+D:\codingbak\Redbet_Server\ScutSoureProject\Framework\ZyGames.Framework.Common\bin\protobuf-net.dll
+D:\codingbak\Redbet_Server\ScutSoureProject\Framework\ZyGames.Framework.Common\obj\Debug\ZyGames.Framework.Common4.6.csprojResolveAssemblyReference.cache
+D:\codingbak\Redbet_Server\ScutSoureProject\Framework\ZyGames.Framework.Common\obj\Debug\ZyGames.Framework.Common.dll
+D:\codingbak\Redbet_Server\ScutSoureProject\Framework\ZyGames.Framework.Common\obj\Debug\ZyGames.Framework.Common.pdb
